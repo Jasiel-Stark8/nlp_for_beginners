@@ -8,7 +8,7 @@ Just like how a Software Engineer has domain knowlege in:
 - SysAdmin
 - Cloud
 - Databases
-- QA Testing etc...
+- QA Testing etc... \
 A complete AI engineer must have domain knowledge in (although not really a standard but this is my definition):
 - Software Engineering
 - Machine Learning
